@@ -9,7 +9,7 @@ function info() {
         <span className="about__subtitle">1 Years Working</span>
       </div>
       <div className="about__box">
-      <i class="uil uil-briefcase about_icon"></i>
+        <i class="uil uil-briefcase about_icon"></i>
         <h3 className="about__title">Completed</h3>
         <span className="about__subtitle">+12 Projects</span>
       </div>
