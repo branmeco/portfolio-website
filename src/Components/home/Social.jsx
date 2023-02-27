@@ -6,8 +6,8 @@ const Social = () => {
             <a href="https://discord.gg/PgCjXaUA" className="home__social-icon" target="_blank" rel="noreferrer">
                 <i class="uil uil-discord"></i>
             </a>
-            <a href="https://api.whatsapp.com/send?phone=%2B573227178508&text=Hola+%3A-D+quieres+que+creamos+un+plataforma+para+tu+negocio+juntos%2C+hablamos+y+organizaremos+todos+los+detalles." className="home__social-icon" target="_blank" rel="noreferrer">
-                <i class="uil uil-whatsapp"></i>
+            <a href="https://www.linkedin.com/in/brayan-andr%C3%A9s-medina-correa/" className="home__social-icon" target="_blank" rel="noreferrer">
+                <i class="uil uil-linkedin"></i>
             </a>
             <a href="https://github.com/branmeco" className="home__social-icon" target="_blank" rel="noreferrer">
                 <i class="uil uil-github"></i>
