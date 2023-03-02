@@ -18,7 +18,7 @@ function Services() {
                 <div className="services__content">
                     <div>
                         <i className="uil uil-web-grid services__icon"></i>
-                        <h3 className="services__title">Producto <br /> Designer</h3>
+                        <h3 className="services__title">Web <br /> Developer</h3>
                     </div>
                     <span className="services__button" onClick={() => toggleTab(1)}>View More <i className="uil uil-arrow-right services__button-icon"></i></span>
 
@@ -26,13 +26,13 @@ function Services() {
                         <div className="services__modal-content">
                             <i onClick={() => toggleTab(0)} className='uil uil-times services__modal-close'></i>
 
-                            <h3 className="services__modal-title">Product Designer</h3>
-                            <p className="services__modal-description">Service with than 1 years of experience. Providing quality work to clients and companies.</p>
+                            <h3 className="services__modal-title">Web development</h3>
+                            <p className="services__modal-description">Software that runs on a web environment, which allows you to use the operative System you like the most. In addition, through internet, you would be able to acces it from wherever you are</p>
 
                             <ul className="services__modal-services grid">
                                 <li className="services__modal-service">
                                     <i className="uil uil-check-circle services__modal-icon"></i>
-                                    <p className='services__modal-info'>I develop the user interface.</p>
+                                    <p className='services__modal-info'>In-depth study of a website.</p>
                                 </li>
                                 <li className="services__modal-service">
                                     <i className="uil uil-check-circle services__modal-icon"></i>
@@ -40,11 +40,11 @@ function Services() {
                                 </li>
                                 <li className="services__modal-service">
                                     <i className="uil uil-check-circle services__modal-icon"></i>
-                                    <p className='services__modal-info'>Data Analysis.</p>
+                                    <p className='services__modal-info'>We create integration with other applications (API).</p>
                                 </li>
                                 <li className="services__modal-service">
                                     <i className="uil uil-check-circle services__modal-icon"></i>
-                                    <p className='services__modal-info'>REST APIs Development.</p>
+                                    <p className='services__modal-info'>Project unit tests.</p>
                                 </li>
                                 <li className="services__modal-service">
                                     <i className="uil uil-check-circle services__modal-icon"></i>
@@ -62,7 +62,7 @@ function Services() {
                 <div className="services__content">
                     <div>
                         <i className="uil uil-arrow services__icon"></i>
-                        <h3 className="services__title">Ui/Ux <br /> Designer</h3>
+                        <h3 className="services__title">Data <br /> Analysis</h3>
                     </div>
                     <span onClick={() => toggleTab(2)} className="services__button">View More <i className="uil uil-arrow-right services__button-icon"></i></span>
 
@@ -70,29 +70,29 @@ function Services() {
                         <div className="services__modal-content">
                             <i onClick={() => toggleTab(0)} className='uil uil-times services__modal-close'></i>
 
-                            <h3 className="services__modal-title">Ui / Ux Designer</h3>
-                            <p className="services__modal-description">Service with than 1 years of experience. Providing quality work to clients and companies.</p>
+                            <h3 className="services__modal-title">Data Analysis</h3>
+                            <p className="services__modal-description">analysis of structured information to get insights and graphics.</p>
 
                             <ul className="services__modal-services grid">
                                 <li className="services__modal-service">
                                     <i className="uil uil-check-circle services__modal-icon"></i>
-                                    <p className='services__modal-info'>I develop the user interface.</p>
+                                    <p className='services__modal-info'>creation of ecosystems in the cloud and free software for data analysis.</p>
                                 </li>
                                 <li className="services__modal-service">
                                     <i className="uil uil-check-circle services__modal-icon"></i>
-                                    <p className='services__modal-info'>Web page development.</p>
+                                    <p className='services__modal-info'>Assist in developing, implementing and maintaining AI models and algorithms for various business problems.</p>
                                 </li>
                                 <li className="services__modal-service">
                                     <i className="uil uil-check-circle services__modal-icon"></i>
-                                    <p className='services__modal-info'>Data Analysis.</p>
+                                    <p className='services__modal-info'>Analyze data and derive insights using statistical methods.</p>
                                 </li>
                                 <li className="services__modal-service">
                                     <i className="uil uil-check-circle services__modal-icon"></i>
-                                    <p className='services__modal-info'>REST APIs Development.</p>
+                                    <p className='services__modal-info'>Assist in the development and deployment of predictive models for use in production environments.</p>
                                 </li>
                                 <li className="services__modal-service">
                                     <i className="uil uil-check-circle services__modal-icon"></i>
-                                    <p className='services__modal-info'>Design and mockups of products for companies.</p>
+                                    <p className='services__modal-info'>Proficiency in programming languages such as Python.</p>
                                 </li>
                                 <li className="services__modal-service">
                                     <i className="uil uil-check-circle services__modal-icon"></i>
@@ -106,7 +106,7 @@ function Services() {
                 <div className="services__content">
                     <div>
                         <i className="uil uil-edit services__icon"></i>
-                        <h3 className="services__title">Visual <br /> Designer</h3>
+                        <h3 className="services__title">Backed <br /> Developer</h3>
                     </div>
                     <span onClick={() => toggleTab(3)} className="services__button">View More <i className="uil uil-arrow-right services__button-icon"></i></span>
 
@@ -114,17 +114,17 @@ function Services() {
                         <div className="services__modal-content">
                             <i onClick={() => toggleTab(0)} className='uil uil-times services__modal-close'></i>
 
-                            <h3 className="services__modal-title">Visual Designer</h3>
-                            <p className="services__modal-description">Service with than 1 years of experience. Providing quality work to clients and companies.</p>
+                            <h3 className="services__modal-title">Backend Developer</h3>
+                            <p className="services__modal-description">Service with than 1 years of experience. Providing quality work to clients and companies. modules backend</p>
 
                             <ul className="services__modal-services grid">
                                 <li className="services__modal-service">
                                     <i className="uil uil-check-circle services__modal-icon"></i>
-                                    <p className='services__modal-info'>I develop the user interface.</p>
+                                    <p className='services__modal-info'>Interpret and design a resolution based on a deep knowledge of the product.</p>
                                 </li>
                                 <li className="services__modal-service">
                                     <i className="uil uil-check-circle services__modal-icon"></i>
-                                    <p className='services__modal-info'>Web page development.</p>
+                                    <p className='services__modal-info'>I offer support to the technological platforms and systems for which we are responsible.</p>
                                 </li>
                                 <li className="services__modal-service">
                                     <i className="uil uil-check-circle services__modal-icon"></i>
