@@ -11,7 +11,7 @@ function info() {
       <div className="about__box">
         <i class="uil uil-briefcase about_icon"></i>
         <h3 className="about__title">Completed</h3>
-        <span className="about__subtitle">+12 Projects</span>
+        <span className="about__subtitle">+13 Projects</span>
       </div>
       <div className="about__box">
         <i class="bx bx-support about_icon"></i>
